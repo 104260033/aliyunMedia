@@ -1,0 +1,15 @@
+{
+    "name": "root/aliyunmedia",
+    "authors": [
+        {
+            "name": "104260033",
+            "email": "104260033@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Fff\\AliyunMdia\\":"src"
+        }
+    }
+}
